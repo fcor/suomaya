@@ -1,18 +1,44 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import { CSSTransition, TransitionGroup } from 'react-transition-group'
+import Home from './components/Home'
+import Semilleros from './components/Semilleros'
+import Revista from './components/Revista'
+import Proyectos from './components/Proyectos'
+import Simposio from './components/Simposio'
+import TopSection from './components/TopSection'
+import Footer from './components/Footer'
+import './App.css'
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Suomaya
-          </p>
-        </header>
-      </div>
+      <Router>
+          <div className="app">
+            <div className="content">
+              <Route render={ (props) => {
+                return (
+                  <TopSection location={props.location.pathname} />
+                )
+              }} />
+              <Route render={({ location }) =>
+                <TransitionGroup exit={false}>
+                  <CSSTransition key={location.pathname.split('/')[1]} timeout={250} classNames="fade">
+                  <Switch location={location}>
+                    <Route exact path="/" render={() => <Home  />} />
+                    <Route path="/semilleros" render={() => <Semilleros  />} />
+                    <Route path="/revista" render={() => <Revista />}/>
+                    <Route path="/proyectos" render={() => <Proyectos />}/>
+                    <Route path="/simposio" render={() => <Simposio />}/>
+                    <Route render={() => <h1>Page not found</h1>} />
+                  </Switch>
+                  </CSSTransition>
+                </TransitionGroup>
+              }/>
+            </div>
+            <Footer />
+          </div>
+        </Router>
     );
   }
 }
