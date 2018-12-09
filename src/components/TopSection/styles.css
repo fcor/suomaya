@@ -4,7 +4,7 @@
 
 .top-section.img{
   height: 95vh;
-  background-image: url('../../assets/img/7.jpg');
+  background: var(--verde) url('../../assets/img/suomaya2.png');
   background-size: cover;
 }
 
