@@ -34,7 +34,12 @@
 }
 
 .menu a:hover{
-  border-bottom: 5px solid var(--naranja);
+  /* border-bottom: 5px solid var(--naranja); */
+  color: var(--naranja)
+}
+
+.menu a.selected:hover{
+  color: white !important;
 }
 
 .menu a.selected{
