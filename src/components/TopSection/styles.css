@@ -1,0 +1,17 @@
+.top-section{
+
+}
+
+.top-section.img{
+  height: 95vh;
+  background-image: url('../../assets/img/7.jpg');
+  background-size: cover;
+}
+
+.top-section-content{
+
+}
+
+.top-section-default{
+    background-color: var(--verde)
+}
