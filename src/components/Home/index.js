@@ -1,8 +1,10 @@
 import React from 'react'
+import './styles.css'
+import Semilleros from './Semilleros'
 
 const Home = () => {
     return(
-        <div>Home</div>
+        <Semilleros />
     )
 }
 
