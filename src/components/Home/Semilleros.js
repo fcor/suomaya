@@ -20,9 +20,9 @@ const getIconText = (area) => {
 
 const Semilleros = () =>
   <section className="semilleros-home column">
-    <h1>Semilleros</h1>
+    <h1 className="title-home">Semilleros</h1>
     <Dots />
-    <p>
+    <p className="text-home" >
       Cupcake ipsum dolor sit amet tootsie roll souﬄé danish. Fruitcake sweet marzipan
       apple pie lemon drops apple pie. Pastry biscuit coon candy sesame snaps pastry
       candy lemon drops icing.

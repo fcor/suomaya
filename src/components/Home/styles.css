@@ -1,4 +1,8 @@
-.semilleros-home h1{
+.semilleros-home{
+  margin: 33px 0;
+}
+
+.title-home{
   font-size: 30px;
   font-family: 'Myriad Pro';
   font-weight: bold;
@@ -6,7 +10,7 @@
   margin: 30px 0 0 0;
 }
 
-.semilleros-home p{
+.text-home{
   width: 700px;
   margin: 20px 0 25px 0;
   color: var(--gris);
@@ -27,8 +31,39 @@
   margin: 0;
   font-family: 'Calibri';
   font-weight: bold;
+  text-align: center;
 }
 
 .semilleros-home button{
   margin-bottom: 33px;
+}
+
+.revista-home{
+  width: 900px;
+  margin: 0 auto;
+  justify-content: space-between !important;
+}
+
+.info-revista-home{
+  width: 400px;
+}
+
+.revista-home img{
+  width: 300px;
+}
+
+.line{
+  border: 0; 
+  height: 0; 
+  border-top: 1px solid rgba(0, 0, 0, 0.1); 
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.info-revista-home p{
+  width: 480px;
+}
+
+.revista-home{
+  margin-bottom: 66px;
+  margin-top: 66px;
 }
