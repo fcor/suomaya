@@ -1,0 +1,35 @@
+.semilleros{
+  padding: 30px 0;
+  /* border: 1px solid red; */
+  width: 80vw;
+  margin: 0 auto;
+  position: relative;
+}
+
+.semilleros-header{
+  align-items: flex-start !important;
+}
+
+.box{
+  background-color: var(--naranja);
+  position: absolute;
+  top: 37px;
+  left: -20px;
+  width: 8px;
+  height: 50px;
+}
+
+.semilleros-header h1{
+  color: var(--verde);
+  font-family: 'Myriad Pro';
+  font-weight: bold;
+  font-size: 50px;
+  margin: 0;
+}
+
+.semilleros-header p{
+  color: var(--gris);
+  font-family: 'Calibri';
+  font-size: 21px;
+  margin: 0;
+}
