@@ -8,6 +8,7 @@ import Proyectos from './components/Proyectos'
 import Simposio from './components/Simposio'
 import TopSection from './components/TopSection'
 import Footer from './components/Footer'
+import Semillero from './components/Semillero'
 import './App.css'
 
 class App extends Component {
@@ -30,6 +31,7 @@ class App extends Component {
                     <Route path="/revista" render={() => <Revista />}/>
                     <Route path="/proyectos" render={() => <Proyectos />}/>
                     <Route path="/simposio" render={() => <Simposio />}/>
+                    <Route path="/semillero" render={() => <Semillero />}/>
                     <Route render={() => <h1>Page not found</h1>} />
                   </Switch>
                   </CSSTransition>
