@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from '../Button'
 import './styles.css'
-import { getLinea } from '../../utils/semilleros'
+import { getLinea } from '../../utils/lineas'
 
 const lineas = ['logistica', 'mercadeo', 'creativas', 'tics']
 
@@ -37,7 +37,7 @@ const Semilleros = () => {
                         <div>
                           <h1>{item.name}</h1>
                           <p>{item.description}</p>
-                          <Button route="semilleros" variant="small">
+                          <Button route={item.name.toLowerCase().replace(/\s/g, '')} variant="small">
                             Ir al semillero
                           </Button>
                         </div>

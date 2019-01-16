@@ -11,6 +11,8 @@ import Footer from './components/Footer'
 import Semillero from './components/Semillero'
 import './App.css'
 
+const semilleros = ['innovatics', 'siclog', 'neurocomarketing', 'siam', 'aleph', 'industriascreativas']
+
 class App extends Component {
   render() {
     return (
@@ -31,7 +33,9 @@ class App extends Component {
                     <Route path="/revista" render={() => <Revista />}/>
                     <Route path="/proyectos" render={() => <Proyectos />}/>
                     <Route path="/simposio" render={() => <Simposio />}/>
-                    <Route path="/semillero" render={() => <Semillero />}/>
+                    {semilleros.map((item) => (
+                      <Route path={`/${item}`} render={() => <Semillero variant={item} />}/>
+                    ))}
                     <Route render={() => <h1>Page not found</h1>} />
                   </Switch>
                   </CSSTransition>

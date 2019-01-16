@@ -1,21 +1,22 @@
 import React from 'react'
-import avatar from '../../assets/img/avatar.png'
+// import avatar from '../../assets/img/avatar.png'
 
-const leuro = {
-  name: 'John Leuro',
-  mail: 'johnleuro@sena.edu.co',
-  detail: 'Especialista en logística',
-  avatar: avatar
-}
+// const leuro = {
+//   name: 'John Leuro',
+//   mail: 'johnleuro@sena.edu.co',
+//   detail: 'Especialista en logística',
+//   avatar: avatar
+// }
 
-const TeamMembers = () => (
-  <div className="team-members row">
-    <Member member={leuro} />
-    <Member member={leuro} />
-    <Member member={leuro} />
-    <Member member={leuro} />
-  </div>
-)
+const TeamMembers = ({members}) => {
+  return (
+    <div className="team-members row">
+      {members.map( (item, index) => (
+        <Member key={index} member={item} />
+      ))}
+    </div>
+  )
+} 
 
 const Member = ({ member }) => (
   <div className="member column">
