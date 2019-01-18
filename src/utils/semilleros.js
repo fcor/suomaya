@@ -3,11 +3,17 @@ import marketing from '../assets/img/marketing.svg'
 import ti from '../assets/img/ti.svg'
 import ic from '../assets/img/ic.svg'
 import avatar from '../assets/img/avatar.png'
+import aleph from '../assets/img/aleph.png'
+import innovatics from '../assets/img/innovatics.png'
+import siam from '../assets/img/siam.png'
+import neurocomarketing from '../assets/img/neurocomarketing.png'
+import industriasc from '../assets/img/ic.png'
+
 
 const getSemillero = (semillero) => {
   if(semillero === 'innovatics') {
     return {
-      logo: ti,
+      logo: innovatics,
       name: 'Innovatics',
       description: 'Somos un equipo de aprendices e instructores del Centro de Gestión de Mercados, Logística y Tecnologías de la Información, de la Regional Distrito Capital -SENA, que promueven la innovación e investigación, mediante el estudio sistemático y la aplicación de nuevas tecnologías en los procesos de mantenimiento de infraestructura de TI, la gestión de redes de datos, el diseño y el desarrollo de software y videojuegos. Actualmente enfocados a la industria 4.0, realidad virtual inmersiva y aumentada, Big Data, IoT y Machine Learning.',
       team: [
@@ -88,7 +94,7 @@ const getSemillero = (semillero) => {
   }
   if(semillero === 'siam') {
     return {
-      logo: marketing,
+      logo: siam,
       name: 'Siam',
       description: 'Semillero de investigación cuyo objetivo principal es incentivar los hábitos de investigación en los aprendices que pertenecen al programa de articulación con la media. En el momento el semillero esta realizando trabajos de investigación clásica dirigidos a la identificación de problemáticas relacionadas al área de mercadeo. ',
       team: [
@@ -121,7 +127,7 @@ const getSemillero = (semillero) => {
   }
   if(semillero === 'aleph') {
     return {
-      logo: marketing,
+      logo: aleph,
       name: 'Aleph',
       description: 'El semillero de investigación ALEPH tiene como fin fomentar la investigación formativa mediante un espacio académico multidisciplinario en donde estudiantes y los instructores se unan en la búsqueda de nuevos conocimientos, generando proyectos que ayuden a resolver problemáticas de las empresas a nivel nacional. Realizando una alianza entre los empresarios, diferentes semilleros de investigación SENA y universidades.',
       team: [
@@ -154,7 +160,7 @@ const getSemillero = (semillero) => {
   }
   if(semillero === 'neurocomarketing') {
     return {
-      logo: marketing,
+      logo: neurocomarketing,
       name: 'Neurocomarketing',
       description: 'El semillero de Investigación NEUROCOMARKETING, es un grupo interdisciplinario compuesto por aprendices e instructores del programa Gestión de Mercados del CGMLTI, que promueve la capacidad investigativa mediante la fundamentación técnica-Pedagógica en procesos de investigación aplicada al fortalecimiento de las organizaciones. Dentro de su metodología incorpora conocimientos y herramientas correspondientes al campo del Neuromarketing, el cual se basa en el estudio de los procesos mentales que explican el comportamiento, preferencias y conductas de los consumidores y/o clientes para la toma de decisiones estratégicas.',
       team: [
@@ -187,7 +193,7 @@ const getSemillero = (semillero) => {
   }
   if(semillero === 'industriascreativas') {
     return {
-      logo: ic,
+      logo: industriasc,
       name: 'Industrias Creativas',
       description: 'Semillero dedicado a la construcción de contenido creativo enfocado a las posibilidades de la que da la economía naranja y el impulso del gobierno al sector creativo. Enfocado a procesos culturales, educativo y entretenimiento',
       team: [
