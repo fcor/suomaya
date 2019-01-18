@@ -14,7 +14,7 @@ class Semillero extends React.Component {
     return (
       <div className="semillero-detail column">
         <section className="semillero-header column">
-          <img src={semillero.logo} alt="logo" />
+          <img src={semillero.logo} alt="logo" className={variant} />
           <h1>{semillero.name}</h1>
           <p>{semillero.description}</p>
         </section>

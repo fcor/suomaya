@@ -8,7 +8,27 @@
 }
 
 .semillero-header img{
-  width: 400px;
+  width: 200px;
+}
+
+.semillero-header .innovatics{
+  width: 500px;
+}
+
+.semillero-header .neurocomarketing{
+  width: 700px;
+}
+
+.semillero-header .siam{
+  width: 500px;
+}
+
+.semillero-header .aleph{
+  width: 200px;
+}
+
+.semillero-header .industriascreativas{
+  width: 250px;
 }
 
 .semillero-header p{
@@ -23,7 +43,7 @@
   font-family: 'Myriad Pro';
   font-weight: bold;
   font-size: 50px;
-  margin: 0 0 25px 0;
+  margin: 25px 0 25px 0;
 }
 
 .semillero-team{
