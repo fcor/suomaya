@@ -5,7 +5,11 @@ import { getLinea } from '../../utils/lineas'
 
 const lineas = ['logistica', 'mercadeo', 'creativas', 'tics']
 
-const Semilleros = () => {
+class Semilleros extends React.Component {
+  componentDidMount() {
+    window.scrollTo(0,0)
+  }
+  render() {
     return(
       <div className="semilleros column">
         <div className="box"></div>
@@ -54,6 +58,7 @@ const Semilleros = () => {
         }
       </div>
     )
+  }
 }
 
 export default Semilleros

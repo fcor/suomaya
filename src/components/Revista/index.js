@@ -3,7 +3,11 @@ import logoRevista from '../../assets/img/revistareto.png'
 import Button from '../Button'
 import './styles.css'
 
-const Revista = () => {
+class Revista extends React.Component {
+  componentDidMount() {
+    window.scrollTo(0,0)
+  }
+  render() {
     return(
       <div className="container">
         <div className="revista column">
@@ -37,6 +41,7 @@ const Revista = () => {
         </div>
       </div>
     )
+  }
 }
 
 export default Revista
