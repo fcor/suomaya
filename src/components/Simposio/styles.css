@@ -1,0 +1,55 @@
+.simposio {
+  width: 1100px;
+  padding: 45px 0;
+  margin: 0 auto;
+  /* border: 1px solid red; */
+}
+
+.simposio-top{
+
+}
+
+.simposio-top-info{
+  width: 600px;
+}
+
+.simposio-top-info h1{
+  color: var(--verde);
+  font-family: 'Myriad Pro';
+  font-weight: bold;
+  font-size: 50px;
+  margin: 0 0 15px 0;
+}
+
+.simposio-top-info p{
+  color: var(--gris);
+  font-family: 'Calibri';
+  font-size: 19px;
+  margin: 0;
+}
+
+.simposio-top-support{
+   width: 100%;
+}
+
+.simposio-top-support h2{
+  color: var(--verde);
+  font-family: 'Calibri';
+  font-size: 17px;
+  margin: 18px 0 0 0;
+  align-self: flex-start;
+}
+
+.support-logos{
+  width: 100%;
+  justify-content: space-around !important;
+}
+
+.simposio-top .flyer{
+  width: 450px;
+  margin-left: 50px;
+}
+
+.simposio-pics{
+
+}
