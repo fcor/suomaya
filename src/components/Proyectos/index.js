@@ -1,8 +1,11 @@
 import React from 'react'
+import './styles.css'
 
 const Proyectos = () => {
-    return(
-        <div>Proyectos</div>
+    return (
+      <div className="coming-soon">
+        <h1>Proximamente!</h1>
+      </div>
     )
 }
 
