@@ -22,11 +22,11 @@ class Simposio extends React.Component {
           <div className="simposio-top-info column">
             <h1>II Simposio Ciencia, innovación y tecnología</h1>
             <p>
-              Cupcake ipsum dolor. Sit amet caramels. Apple pie wafer carrot
-              cake powder gummies chupa chups jujubes. Topping soufflé fruitcake. 
-              Apple pie cake chupa chups icing cupcake sweet roll jelly-o. 
-              Bear claw cake tootsie roll jujubes lollipop donut soufflé croissant 
-              wafer. I love cotton candy sweet roll. Sweet chupa chups gummi bears.
+              Este evento surge ante la necesidad de difundir  y posicionar  
+              los  procesos de  investigación, desarrollo tecnológico e innovación
+              realizados en CGMLTI como también los avances y resultados de los
+              proyectos  SENNOVA y cuenta con la participación de diferentes invitados
+              como empresarios, universidades, IES, líderes SENNOVA e investigadores. 
             </p>
             <div className="simposio-top-support column">
               <h2>Con el apoyo de:</h2>

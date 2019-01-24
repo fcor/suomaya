@@ -12,25 +12,26 @@ class Revista extends React.Component {
       <div className="container">
         <div className="revista column">
           <img src={logoRevista} alt="logoRevista" />
-          <p>Cupcake ipsum dolor. Sit amet caramels. Apple pie wafer carrot cake powder gummies 
-            chupa chups jujubes. Topping soufflé fruitcake. Apple pie cake chupa chups icing cupcake
-            sweet roll jelly-o. Bear claw cake tootsie roll jujubes lollipop donut soufflé croissant 
-            wafer. I love cotton candy sweet roll. Sweet chupa chups gummi bears. Marzipan powder sugar 
-            plum candy carrot cake bear claw chupa chups sesame snaps.
+          <p>
+            La revista Reto, es una revista especializada en tecnologías transversales de la organización,
+            del Centro de de gestión de mercados, logística y tecnologias de la información, del servicio 
+            de aprendizaje SENA, regional distrito capital, de publicación anual e impresa. En la revista 
+            Reto se publican artículos teórico - prácticos relacionados con las áreas objeto de formación.
             <br/><br/>
-            Fruitcake chupa chups dessert pastry muffin halvah. I love caramels fruitcake tart candy pie 
-            fruitcake I love. Cheesecake cupcake powder pudding fruitcake marshmallow. Cheesecake halvah 
-            pudding. Biscuit oat cake cotton candy toffee. Toffee muffin jelly cake caramels. Toffee 
-            marshmallow bear claw macaroon.
+            La revista es de acceso libre a su contenido, a partir de la premisa de llevar al público 
+            el resultado de la investigación en forma gratuita, para aumentar el conocimiento de la humanidad.
+            La revista acoge el código de conducta del comité de ética de publicaciones COPE / Commitee on
+            publication ethics, COPE.
           </p>
           <h1>¿Quieres ser parte de nuestra revista?</h1>
-          <p>Cupcake ipsum dolor. Sit amet caramels. Apple pie wafer carrot cake powder gummies 
-            chupa chups jujubes. Topping soufflé fruitcake. Apple pie cake chupa chups icing cupcake
-            sweet roll jelly-o. Bear claw cake tootsie roll jujubes lollipop donut soufflé croissant 
-            wafer. I love cotton candy sweet roll. Sweet chupa chups gummi bears. Marzipan powder sugar 
-            plum candy carrot cake bear claw chupa chups sesame snaps.
+          <p>
+            La revista Reto selecciona sus artículos mediante el proceso de revisión por pares según el método
+            de evaluación a ciegas, por parte de académicos y expertos revisores anónimos dentro del campo de
+            estudio del artículo. Se evalúan los manuscritos recibidos y se determinan que los artículos cumplen
+            con las normas de estilo y contenido indicadas en las directrices para los autores. En el siguiente
+            enlace puedes encontrar toda la información necesaria para hacer parte de la revista.
           </p>
-          <Button link="https://www.yumpu.com/es/document/read/62330013/revista-reto-vol-6">
+          <Button link="http://revistas.sena.edu.co/index.php/RETO">
             IR A LA REVISTA
           </Button>
         </div>
