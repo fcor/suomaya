@@ -10,10 +10,11 @@ const Revista = () =>
       <h1 className="title-home">Revista Reto</h1>
       <Dots />
       <p className="text-home" >
-        Cupcake ipsum dolor sit amet tootsie roll soufflé danish.
-        Fruitcake sweet marzipan apple pie lemon drops apple
-        pie. Pastry biscuit cotton candy sesame snaps pastry
-        candy lemon drops icing.
+        La Revista RETO es una publicación del Centro de Gestión 
+        de Mercados, Logística y Tecnologías de la Información del SENA, 
+        para fortalecer y visibilizar el conocimiento que generan 
+        los grupos de investigación y dar mayor alcance a los desarrollos
+        y resultados de los proyectos de investigación.
       </p>
       <Button route="revista">
         IR A LA REVISTA

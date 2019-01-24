@@ -13,11 +13,11 @@ const TopSection = ({ location }) =>{
             <div className="top-section-content column">
               <img src={logoImg} alt="img" />
               <h1>Investigación. Innovación. Desarrollo</h1>
-              <p>Cupcake ipsum dolor. Sit amet jujubes carrot cake croissant lollipop 
-                 cake apple pie chocolate cake. Marshmallow chocolate croissant. Halvah
-                 topping chocolate cake sweet. Cupcake ipsum dolor. Sit amet jujubes carrot
-                 cake croissant lollipop cake apple pie chocolate cake. Marshmallow 
-                 chocolate croissant. Halvah topping chocolate cake sweet.
+              <p>Con el fin de difundir y posicionar los procesos de investigación, desarrollo 
+                 tecnológico e innovación realizados en el Centro de Gestión de Mercados, 
+                 Logística y Tecnologías de la Información, nace el Grupo de Investigación SUOMAYA, 
+                 que cuenta con Semilleros de Investigación de los programas de formación de Mercadeo, 
+                 Logística, Industrias Creativas y Teleinformática.
               </p>
               <Button variant="big" route="semilleros">
                 CONOCE MÁS
