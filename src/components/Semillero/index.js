@@ -26,12 +26,12 @@ class Semillero extends React.Component {
         </section>
         <section className="semillero-join column">
           <h1>¿Quieres ser parte de nuestro grupo?</h1>
-          <p>Cupcake ipsum dolor. Sit amet caramels. Apple pie wafer carrot cake powder gummies 
-            chupa chups jujubes. Topping soufflé fruitcake. Apple pie cake chupa chups icing cupcake
-            sweet roll jelly-o. Bear claw cake tootsie roll jujubes lollipop donut soufflé croissant 
-            wafer.
+          <p>
+            Escríbenos un correo a la siguiente dirección y
+            cuéntanos por qué quieres unirte a nosotros.
+            Te esperamos!
           </p>
-          <h2>innovatics@sena.edu.co</h2>
+          <h2>{semillero.contact}</h2>
         </section>
       </div>
     )

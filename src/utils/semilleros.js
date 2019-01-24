@@ -15,30 +15,31 @@ const getSemillero = (semillero) => {
     return {
       logo: innovatics,
       name: 'Innovatics',
+      contact: 'angela.montoyac@misena.edu.co',
       description: 'Somos un equipo de aprendices e instructores del Centro de Gestión de Mercados, Logística y Tecnologías de la Información, de la Regional Distrito Capital -SENA, que promueven la innovación e investigación, mediante el estudio sistemático y la aplicación de nuevas tecnologías en los procesos de mantenimiento de infraestructura de TI, la gestión de redes de datos, el diseño y el desarrollo de software y videojuegos. Actualmente enfocados a la industria 4.0, realidad virtual inmersiva y aumentada, Big Data, IoT y Machine Learning.',
       team: [
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Ángela Montoya',
+          mail: 'angela.montoyac@misena.edu.co',
+          detail: 'Especialista en teleinformática',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Nelson Agudelo',
+          mail: 'nelsongiovani@gmail.com',
+          detail: 'Especialista en teleinformática',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Jose Silva',
+          mail: 'ja.silvarojas@gmail.com ',
+          detail: 'Especialista en teleinformática',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Cristian Buitrago',
+          mail: 'cristianbuitrago@sena.edu.co',
+          detail: 'Especialista en teleinformática',
           avatar: avatar,
         }
       ]
@@ -48,30 +49,31 @@ const getSemillero = (semillero) => {
     return {
       logo: logistica,
       name: 'Siclog',
+      contact: 'jjleuro@sena.edu.co',
       description: `La línea de investigación está orientada la búsqueda de mejores prácticas logísticas para el desarrollo de cadenas de suministro en escenarios globalizados. Las nuevas expectativas de los mercados y las presiones tecnológicas del medio en el que se desarrollan las organizaciones, generan que los enfoques de la gestión estén reinventándose constantemente (García, 2006).
       El modelo de cadena de suministros funciona como una red integrada por varios proveedores, fabricantes, distribuidores, y consumidores finales, coordinados armoniosamente para satisfacer los requerimientos del cliente, con el menor costo y tiempo posible (Whitman et al, 1998, Ballou, 2000). La complejidad de su gestión depende de múltiples factores y no puede desligarse del desarrollo de sistemas logísticos para lograr el flujo eficiente de materiales, información y capital entre los actores involucrados.`,
       team: [
         {
           name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
+          mail: 'jjleuro@sena.edu.co',
           detail: 'Especialista en logística',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
+          name: 'Cristina Ramirez',
+          mail: 'cramirez_m@misena.edu.co',
           detail: 'Especialista en logística',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
+          name: 'Ginna Alejandra Ramirez ',
+          mail: 'ginnaramirez@sena.edu.co',
           detail: 'Especialista en logística',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
+          name: 'Alejandra Bermudez ',
+          mail: 'alejandrabermudez@sena.edu.co',
           detail: 'Especialista en logística',
           avatar: avatar,
         }
@@ -82,32 +84,27 @@ const getSemillero = (semillero) => {
     return {
       logo: siam,
       name: 'Siam',
+      contact: 'jauank@misena.edu.co',
       description: 'Semillero de investigación cuyo objetivo principal es incentivar los hábitos de investigación en los aprendices que pertenecen al programa de articulación con la media. En el momento el semillero esta realizando trabajos de investigación clásica dirigidos a la identificación de problemáticas relacionadas al área de mercadeo. ',
       team: [
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
+          name: 'Juan Carlos Saavedra',
+          mail: 'jauank@misena.edu.co',
+          detail: 'Especialista en marketing',
+          avatar: avatar,
+        },
+        {
+          name: 'Martha Patricia Milla',
+          mail: 'marthamilla@sena.edu.co',
           detail: 'Especialista en logística',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
+          name: 'Julieth Andrea Puentes',
+          mail: 'juliethpuentes@sena.edu.co',
           detail: 'Especialista en logística',
           avatar: avatar,
         },
-        {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
-          avatar: avatar,
-        },
-        {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
-          avatar: avatar,
-        }
       ]
     }
   }
@@ -115,30 +112,31 @@ const getSemillero = (semillero) => {
     return {
       logo: aleph,
       name: 'Aleph',
+      contact: 'clapar@misena.edu.co',
       description: 'El semillero de investigación ALEPH tiene como fin fomentar la investigación formativa mediante un espacio académico multidisciplinario en donde estudiantes y los instructores se unan en la búsqueda de nuevos conocimientos, generando proyectos que ayuden a resolver problemáticas de las empresas a nivel nacional. Realizando una alianza entre los empresarios, diferentes semilleros de investigación SENA y universidades.',
       team: [
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Claudia Patricia Ramírez',
+          mail: 'clapar@misena.edu.co',
+          detail: 'Especialista en marketing',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Juan Carlos Saavedra',
+          mail: 'jauank@misena.edu.co',
+          detail: 'Especialista en marketing',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Felipe Isaza',
+          mail: 'felipeisaza@sena.edu.co',
+          detail: 'Especialista en marketing',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Gonzalo Salgado',
+          mail: 'gonzalosalgado@sena.edu.co',
+          detail: 'Especialista en marketing',
           avatar: avatar,
         }
       ]
@@ -148,30 +146,31 @@ const getSemillero = (semillero) => {
     return {
       logo: neurocomarketing,
       name: 'Neurocomarketing',
+      contact: 'daisy.ramirez10@gmail.com',
       description: 'El semillero de Investigación NEUROCOMARKETING, es un grupo interdisciplinario compuesto por aprendices e instructores del programa Gestión de Mercados del CGMLTI, que promueve la capacidad investigativa mediante la fundamentación técnica-Pedagógica en procesos de investigación aplicada al fortalecimiento de las organizaciones. Dentro de su metodología incorpora conocimientos y herramientas correspondientes al campo del Neuromarketing, el cual se basa en el estudio de los procesos mentales que explican el comportamiento, preferencias y conductas de los consumidores y/o clientes para la toma de decisiones estratégicas.',
       team: [
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Mariam Daisy Ramírez Briceño',
+          mail: 'daisy.ramirez10@gmail.com',
+          detail: 'Especialista en marketing',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Clara Rocío Henao Zárate',
+          mail: 'rociohenao@sena.edu.co',
+          detail: 'Especialista en marketing',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Cesar Medina Acero',
+          mail: 'cesarmedina@sena.edu.co',
+          detail: 'Especialista en marketing',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'María Emma Lombana',
+          mail: 'emmalombana@sena.edu.co',
+          detail: 'Especialista en marketing',
           avatar: avatar,
         }
       ]
@@ -181,30 +180,31 @@ const getSemillero = (semillero) => {
     return {
       logo: industriasc,
       name: 'Industrias Creativas',
+      contact: 'vallejo1845@gmail.com',
       description: 'Semillero dedicado a la construcción de contenido creativo enfocado a las posibilidades de la que da la economía naranja y el impulso del gobierno al sector creativo. Enfocado a procesos culturales, educativo y entretenimiento',
       team: [
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Luis Vallejo',
+          mail: 'vallejo1845@gmail.com',
+          detail: 'Especialista en diseño',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Juan Pablo Navarro',
+          mail: 'juannavarro@sena.edu.co',
+          detail: 'Especialista en diseño',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Ekaterine cardona',
+          mail: 'ekacardona@misena.edu.co',
+          detail: 'Especialista en diseño',
           avatar: avatar,
         },
         {
-          name: 'John Leuro',
-          mail: 'leuro@sena.edu.co',
-          detail: 'Especialista en logística',
+          name: 'Nicolás Álvarez',
+          mail: 'nicolaslavarez@sena.edu.co',
+          detail: 'Especialista en diseño',
           avatar: avatar,
         }
       ]
