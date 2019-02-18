@@ -34,7 +34,7 @@ class App extends Component {
                     <Route path="/proyectos" render={() => <Proyectos />}/>
                     <Route path="/simposio" render={() => <Simposio />}/>
                     {semilleros.map((item) => (
-                      <Route path={`/${item}`} render={() => <Semillero variant={item} />}/>
+                      <Route key={item} path={`/${item}`} render={() => <Semillero variant={item} />}/>
                     ))}
                     <Route render={() => <h1>Page not found</h1>} />
                   </Switch>

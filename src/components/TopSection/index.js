@@ -4,6 +4,7 @@ import Button from '../Button'
 import './styles.css'
 import logoImg from '../../assets/img/logoimg.png'
 
+
 const TopSection = ({ location }) =>{
     if (location === '/') {
       return(

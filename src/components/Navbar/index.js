@@ -2,6 +2,7 @@ import React from 'react'
 import { NavLink } from  'react-router-dom'
 import './styles.css'
 import Logo from '../Logo'
+import Hamburger from '../Hamburger';
 
 const Navbar = ({variant, type}) => {
     return(
@@ -33,6 +34,7 @@ const Navbar = ({variant, type}) => {
             Simposio
           </NavLink>
         </div>
+        <Hamburger />
       </div>
     )
 }

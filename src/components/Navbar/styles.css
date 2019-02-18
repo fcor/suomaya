@@ -45,3 +45,7 @@
 .menu a.selected{
   border-bottom: 5px solid var(--naranja);
 }
+
+.navbar.mobile{
+  flex-direction: column !important;
+}

@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import logo from '../../assets/img/logo.png'
+import logo from '../../assets/img/logosuomaya.png'
 import './styles.css'
 
 // const getLogo = (type) => (type === "home") ? logo2 : logo
