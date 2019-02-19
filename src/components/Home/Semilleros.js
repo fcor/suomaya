@@ -43,7 +43,7 @@ const Icons = () =>
 
 const Icon = ({area}) =>
   <div className="semilleros-home-icon column">
-    <img src={area} width="150"/>
+    <img src={area} width="150" alt="icon"/>
     <p>
       {getIconText(area)}
     </p>

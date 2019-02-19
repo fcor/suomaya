@@ -67,3 +67,72 @@
   margin-bottom: 66px;
   margin-top: 66px;
 }
+
+@media screen and (max-width: 1000px) {
+  .semilleros-home-icons{
+    width: 70vw;
+    justify-content: center !important;
+  }
+
+  .semilleros-home-icon img{
+    width: 130px;
+  }
+
+  .revista-home{
+    width: 80vw;
+  }
+
+  .info-revista-home{
+    width: 42vw;
+  }
+  
+  .revista-home img{
+    width: 30vw;
+  }
+
+  .info-revista-home p{
+    width: 370px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .semilleros-home .text-home{
+    width: 70vw;
+  }
+
+  .semilleros-home-icon img{
+    width: 100px;
+  }
+
+  .revista-home {
+    flex-direction: column !important;
+  }
+
+}
+
+@media screen and (max-width: 700px) {
+  .semilleros-home-icon p{
+    width: 130px;
+  }
+
+}
+
+@media screen and (max-width: 560px) {
+  .semilleros-home-icons {
+    width: 370px;
+    flex-wrap: wrap;
+  }
+
+  .text-home{
+    font-size: 16px;
+  }
+
+  .info-revista-home{
+    width: 200px;
+  }
+  
+  .info-revista-home p{
+    width: 70vw;
+  }
+
+}
