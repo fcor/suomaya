@@ -29,3 +29,62 @@
 .revista iframe{
   margin: 35px 0;
 }
+
+@media screen and (max-width: 1200px){
+  .revista{
+    width: 70vw;
+  }
+
+  .revista p{
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 760px){
+  .revista h1{
+    font-size: 27px;
+  }
+
+  .revista p{
+    font-size: 17px;
+  }
+
+  .revista iframe{
+    width: 70vw;
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 660px){
+  .revista h1{
+    font-size: 24px;
+  }
+
+  .revista p{
+    font-size: 15px;
+  }
+
+}
+
+@media screen and (max-width: 590px){
+  .revista h1{
+    font-size: 22px;
+  }
+
+  .revista p{
+    font-size: 14px;
+    margin: 25px 0;
+  }
+
+}
+
+@media screen and (max-width: 530px){
+  .revista h1{
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .revista img {
+    width: 230px;
+  }
+}
