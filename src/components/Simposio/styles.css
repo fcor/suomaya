@@ -45,7 +45,7 @@
   justify-content: space-around !important;
 }
 
-.simposio-top .flyer{
+.flyer{
   width: 450px;
   margin-left: 50px;
 }
@@ -70,4 +70,115 @@
 .simposio-gallery img{
   width: 340px;
   margin: 20px 0;
+}
+
+@media screen and (max-width: 1170px){
+  .simposio{
+    width: 80vw;
+  }
+
+  .simposio-top-info{
+    width: 35vw;
+  }
+
+  .simposio-top-info h1{
+    font-size: 40px;
+  }
+
+  .flyer{
+    /* width: 30vw; */
+  }
+}
+
+@media screen and (max-width: 1000px){
+  .simposio-top-info h1{
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 900px){
+  .simposio-top-info h1{
+    font-size: 30px;
+  }
+
+  .simposio-top-info p{
+    font-size: 17px;
+  }
+
+  .simposio-gallery{
+    flex-wrap: wrap;
+    justify-content: space-around !important;
+  }
+
+  .simposio-gallery img{
+    width: 300px;
+    /* margin: 20px 0; */
+  }
+
+}
+
+@media screen and (max-width: 800px){
+  .simposio-top-info h1{
+    font-size: 27px;
+  }
+
+  .simposio-top-info p{
+    font-size: 16px;
+  }
+
+  .simposio-gallery{
+    flex-direction: column !important;
+    justify-content: center;
+  }
+
+  .simposio-pics h1{
+    font-size: 27px;
+    text-align: center;
+  }
+
+  .simposio-gallery img{
+    width: 340px;
+  }
+
+}
+
+@media screen and (max-width: 730px){
+  .simposio-top-info h1{
+    font-size: 24px;
+  }
+
+  .simposio-top-info p{
+    font-size: 15px;
+  }
+
+}
+
+@media screen and (max-width: 650px){
+  .simposio-top{
+    flex-direction: column !important;
+  }
+
+  .simposio-top-info{
+    width: 70vw;
+  }
+
+  .flyer{
+    width: 70vw;
+    margin: 20px 0 0 0;
+  }
+
+  .simposio-top-info h1{
+    text-align: center;
+    width: 80vw;
+  }
+
+  .simposio-top-info p{
+    text-align: center
+  }
+
+  .simposio-gallery img{
+    width: 70vw;
+    /* margin: 20px 0; */
+  }
+  
 }
