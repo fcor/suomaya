@@ -22,6 +22,7 @@ class Hamburger extends React.Component {
   }
 
   handleClick(){
+    console.log('Click')
     this.setState(
       ({active}) => ({active: !active}),
     )
