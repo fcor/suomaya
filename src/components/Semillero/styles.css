@@ -125,3 +125,98 @@
   text-align: center;
   margin: 35px 0 0 0;
 }
+
+@media screen and (max-width: 1200px){
+  .semillero-header p{
+    width: 80vw;
+    text-align: center;
+  }
+
+  .team-content{
+    width: 85vw;
+  }
+
+  .semillero-join{
+    width: 80vw;
+  }
+
+  .semillero-join h1{
+    text-align: center;
+  }
+
+  .semillero-join p {
+    width: 70vw;
+  }
+}
+
+@media screen and (max-width: 1000px){
+
+  .team-members{
+    flex-wrap: wrap;
+    justify-content: space-around !important;
+  }
+
+  .member{
+    margin-top: 20px;
+    width: 220px;
+  }
+
+  .member img{
+    width: 150px;
+  } 
+}
+
+@media screen and (max-width: 600px){
+  .semillero-header h1{
+    font-size: 40px;  
+  }
+
+  .semillero-header p{
+    font-size: 17px;
+  }
+
+  .semillero-join h1{
+    font-size: 40px;
+  }
+
+  .semillero-join p{
+    font-size: 17px;
+  }
+
+  .semillero-join h2{
+    font-size: 35px;
+  }
+
+  .member{
+    margin-top: 8px;
+    margin-bottom: 20px;
+  }
+}
+
+
+@media screen and (max-width: 400px){
+  .semillero-header h1{
+    font-size: 35px;  
+  }
+
+  .semillero-header p{
+    font-size: 14px;
+  }
+
+  .semillero-join h1{
+    font-size: 35px;
+  }
+
+  .semillero-join p{
+    font-size: 14px;
+  }
+
+  .semillero-join h2{
+    font-size: 30px;
+  }
+
+  .member{
+    margin-top: 8px;
+    margin-bottom: 20px;
+  }
+}

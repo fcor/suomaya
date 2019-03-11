@@ -1,6 +1,5 @@
 import React from 'react'
 import './styles.css'
-import logistica from '../../assets/img/logistica.svg'
 import TeamMembers from './TeamMembers.js'
 import getSemillero from '../../utils/semilleros'
 

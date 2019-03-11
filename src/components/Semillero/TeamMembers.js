@@ -1,12 +1,4 @@
 import React from 'react'
-// import avatar from '../../assets/img/avatar.png'
-
-// const leuro = {
-//   name: 'John Leuro',
-//   mail: 'johnleuro@sena.edu.co',
-//   detail: 'Especialista en logística',
-//   avatar: avatar
-// }
 
 const TeamMembers = ({members}) => {
   return (

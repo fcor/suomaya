@@ -66,7 +66,7 @@ const getSemillero = (semillero) => {
           avatar: avatar,
         },
         {
-          name: 'Ginna Alejandra Ramirez ',
+          name: 'Ginna Ramirez ',
           mail: 'ginnaramirez@sena.edu.co',
           detail: 'Especialista en logística',
           avatar: avatar,
@@ -150,19 +150,19 @@ const getSemillero = (semillero) => {
       description: 'El semillero de Investigación NEUROCOMARKETING, es un grupo interdisciplinario compuesto por aprendices e instructores del programa Gestión de Mercados del CGMLTI, que promueve la capacidad investigativa mediante la fundamentación técnica-Pedagógica en procesos de investigación aplicada al fortalecimiento de las organizaciones. Dentro de su metodología incorpora conocimientos y herramientas correspondientes al campo del Neuromarketing, el cual se basa en el estudio de los procesos mentales que explican el comportamiento, preferencias y conductas de los consumidores y/o clientes para la toma de decisiones estratégicas.',
       team: [
         {
-          name: 'Mariam Daisy Ramírez Briceño',
+          name: 'Mariam Ramírez',
           mail: 'daisy.ramirez10@gmail.com',
           detail: 'Especialista en marketing',
           avatar: avatar,
         },
         {
-          name: 'Clara Rocío Henao Zárate',
+          name: 'Clara Rocío Henao',
           mail: 'rociohenao@sena.edu.co',
           detail: 'Especialista en marketing',
           avatar: avatar,
         },
         {
-          name: 'Cesar Medina Acero',
+          name: 'Cesar Medina',
           mail: 'cesarmedina@sena.edu.co',
           detail: 'Especialista en marketing',
           avatar: avatar,
