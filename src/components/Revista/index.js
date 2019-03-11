@@ -38,7 +38,7 @@ class Revista extends React.Component {
         <hr className="line container" />
         <div className="revista column">
           <h1>Número actual</h1>
-          <iframe width="620px" title="Revista" height="600px" src="https://www.yumpu.com/es/embed/view/XNi3o4FSOLdWhV7p" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>
+          <iframe width="620px" title="Revista" height="600px" src="https://www.yumpu.com/es/embed/view/XNi3o4FSOLdWhV7p" frameBorder="0" allowFullScreen="true"  allowtransparency="true"></iframe>
         </div>
       </div>
     )

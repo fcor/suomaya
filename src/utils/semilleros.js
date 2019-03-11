@@ -1,7 +1,4 @@
 import logistica from '../assets/img/logistica.svg'
-import marketing from '../assets/img/marketing.svg'
-import ti from '../assets/img/ti.svg'
-import ic from '../assets/img/ic.svg'
 import avatar from '../assets/img/avatar.png'
 import aleph from '../assets/img/aleph.png'
 import innovatics from '../assets/img/innovatics.png'
