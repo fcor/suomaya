@@ -191,12 +191,16 @@
     margin-top: 8px;
     margin-bottom: 20px;
   }
+
+  .semillero-header img{
+    width: 200px !important;
+  }
 }
 
 
 @media screen and (max-width: 400px){
   .semillero-header h1{
-    font-size: 35px;  
+    font-size: 30px;  
   }
 
   .semillero-header p{
@@ -204,7 +208,7 @@
   }
 
   .semillero-join h1{
-    font-size: 35px;
+    font-size: 30px;
   }
 
   .semillero-join p{
@@ -212,7 +216,7 @@
   }
 
   .semillero-join h2{
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .member{
