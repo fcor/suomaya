@@ -1,4 +1,4 @@
-import logistica from '../assets/img/logistica.svg'
+import logistica from '../assets/img/siclog.jpg'
 import avatar from '../assets/img/avatar.png'
 import aleph from '../assets/img/aleph.png'
 import innovatics from '../assets/img/innovatics.png'

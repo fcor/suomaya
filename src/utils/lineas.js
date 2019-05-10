@@ -7,6 +7,7 @@ import innovatics from '../assets/img/innovatics.png'
 import siam from '../assets/img/siam.png'
 import neurocomarketing from '../assets/img/neurocomarketing.png'
 import industriasc from '../assets/img/ic.png'
+import siclog from '../assets/img/siclog.jpg'
 
 export function getLinea(linea){
   if(linea === 'logistica'){
@@ -17,7 +18,7 @@ export function getLinea(linea){
         {
           name: 'Siclog',
           description: 'La línea de investigación está orientada la búsqueda de mejores prácticas logísticas para el desarrollo de cadenas de suministro en escenarios globalizados.',
-          logo: logistica
+          logo: siclog
         }
       ]
      }
