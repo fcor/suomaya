@@ -1,4 +1,5 @@
 import React from 'react'
+import Button from '../Button'
 import './styles.css'
 import flyer from '../../assets/img/simposio.jpg'
 import logoSimposio from '../../assets/img/simposio2.png'
@@ -35,6 +36,9 @@ class Simposio extends React.Component {
                 <img src={sennova} alt="sennova" width="210" />
                 <img src={logoSimposio} alt="simposio" width="210" />
               </div>
+              <Button link="https://docs.google.com/forms/d/e/1FAIpQLSeZa4JonFjq7s7oDPnDvMgRBAgRlPvMzPnNDFYcCo72-D0C6w/viewform">
+                  INSCRÍBETE AQUÍ!
+              </Button>
             </div>
           </div>
           <img 
@@ -43,7 +47,7 @@ class Simposio extends React.Component {
             src={flyer}
           />
         </section>
-        <section className="simposio-pics column">
+        {/* <section className="simposio-pics column">
           <h1>¡Asi fue el II Simposio de Ciencia, innovación y tecnología!</h1>
           <div className="simposio-gallery row">
             <img src={foto1} alt="pic"/>
@@ -53,7 +57,7 @@ class Simposio extends React.Component {
             <img src={foto5} alt="pic"/>
             <img src={foto6} alt="pic"/>
           </div>
-        </section>
+        </section> */}
       </div>
     )
   }

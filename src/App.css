@@ -16,6 +16,11 @@
   font-family: 'Myriad Pro';
   src: local('Myriad Pro'), url(./assets/fonts/MyriadPro-Bold.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Calibri';
+  src: local('Calibri'), url(./assets/fonts/Calibri.ttf) format('truetype');
+}
+
 
 body{
   margin: 0;
