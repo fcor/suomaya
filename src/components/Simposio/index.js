@@ -33,6 +33,17 @@ class Simposio extends React.Component {
               <br />Recepción de artículos: Hasta el 31 de Julio de 2019.
               <br />Evaluación de artículos: 1 al 14 de Agosto de 2019.
               <br />Comunicación de resultados: 16 de Agosto de 2019.
+              <br /> <br /> <strong>Agenda del evento: </strong>
+              <br />Octubre 2: 
+              <br />Mercadeo 9am - 12m
+              <br />Logística 1pm - 6pm
+              <br />
+              <br />Octubre 3: 
+              <br />Emprendimiento 8am - 12m (Terrazas)
+              <br />Industrias creativas 1pm - 6pm
+              <br />
+              <br />Octubre 4:
+              <br />Teleinformática 8am - 12m
             </p>
             <div className="simposio-top-support column">
               <h2>Con el apoyo de:</h2>

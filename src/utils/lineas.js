@@ -27,16 +27,16 @@ export function getLinea(linea){
         name: 'Mercadeo',
         icon: marketing,
         semilleros: [
-          {
-            name: 'Neurocomarketing',
-            description: 'El semillero de Investigación es un grupo que promueve la capacidad investigativa mediante la fundamentación técnica-Pedagógica en procesos de investigación aplicada al fortalecimiento de las organizaciones.',
-            logo: neurocomarketing
-          },
-          {
-            name: 'Siam',
-            description: 'Semillero de investigación cuyo objetivo principal es incentivar los hábitos de investigación en los aprendices que pertenecen al programa de articulación con la media.',
-            logo: siam
-          },
+          // {
+          //   name: 'Neurocomarketing',
+          //   description: 'El semillero de Investigación es un grupo que promueve la capacidad investigativa mediante la fundamentación técnica-Pedagógica en procesos de investigación aplicada al fortalecimiento de las organizaciones.',
+          //   logo: neurocomarketing
+          // },
+          // {
+          //   name: 'Siam',
+          //   description: 'Semillero de investigación cuyo objetivo principal es incentivar los hábitos de investigación en los aprendices que pertenecen al programa de articulación con la media.',
+          //   logo: siam
+          // },
           {
             name: 'Aleph',
             description: 'El semillero de investigación tiene como fin fomentar la investigación formativa mediante un espacio académico en la búsqueda de nuevos conocimientos, generando proyectos que ayuden a resolver problemáticas de las empresas a nivel nacional.',
