@@ -1,0 +1,51 @@
+.fotofilm {
+  width: 1100px;
+  padding: 45px 0;
+  margin: 0 auto;
+}
+
+.fotofilm-header{
+  width: 800px;
+  margin: 0 auto;
+}
+
+.fotofilm-header h1{
+  color: var(--verde);
+  font-family: 'Myriad Pro';
+  font-weight: bold;
+  font-size: 50px;
+  margin: 25px 0 15px 0;
+  text-align: center;
+}
+
+.fotofilm-header p{
+  color: var(--gris);
+  font-family: 'Calibri';
+  font-size: 19px;
+  margin: 0;
+  text-align: center;
+}
+
+.fotofilm-content{
+  width: 700px;
+  margin: 0 auto;
+}
+
+.fotofilm-content h2{
+  color: var(--verde);
+  font-family: 'Myriad Pro';
+  font-weight: bold;
+  font-size: 35px;
+  margin: 35px 0;
+  text-align: center;
+}
+
+.fotofilm-categories{
+  width: 680px;
+  margin: 0 auto;
+  justify-content: space-between !important;
+}
+
+.fotofilm-category img{
+  margin: 20px 0;
+}

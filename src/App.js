@@ -9,6 +9,7 @@ import Simposio from './components/Simposio'
 import TopSection from './components/TopSection'
 import Footer from './components/Footer'
 import Semillero from './components/Semillero'
+import Fotofilm from './components/Fotofilm'
 import './App.css'
 
 const semilleros = ['innovatics', 'siclog', 'neurocomarketing', 'siam', 'aleph', 'industriascreativas']
@@ -33,6 +34,7 @@ class App extends Component {
                     <Route path="/revista" render={() => <Revista />}/>
                     <Route path="/proyectos" render={() => <Proyectos />}/>
                     <Route path="/simposio" render={() => <Simposio />}/>
+                    <Route path="/fotofilm" render={() => <Fotofilm />}/>
                     {semilleros.map((item) => (
                       <Route key={item} path={`/${item}`} render={() => <Semillero variant={item} />}/>
                     ))}

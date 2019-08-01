@@ -5,7 +5,7 @@ import { NavLink } from  'react-router-dom'
 const Button = ({children, route, variant, link}) => {
   if(link) {
     return (
-      <a href={link} rel="noopener noreferrer" target="_blank" className='button'>
+      <a href={link} rel="noopener noreferrer" target="_blank" className={`button ${variant}`}>
         {children}
       </a>
     )
