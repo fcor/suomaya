@@ -28,14 +28,14 @@ class Fotofilm extends React.Component {
           <div className="fotofilm-categories row">
             <div className="fotofilm-category column">
               <img src={wick} alt="sena" width="280" /> 
-              <Button variant="small" link="https://docs.google.com/forms/d/e/1FAIpQLSeZa4JonFjq7s7oDPnDvMgRBAgRlPvMzPnNDFYcCo72-D0C6w/viewform">
-                  INSCRÍBETE AQUÍ
+              <Button variant="small" route="cortometraje">
+                  Cortometraje
               </Button>
             </div>
             <div className="fotofilm-category column">
               <img src={ardilla} alt="sena" width="280" /> 
-              <Button variant="small" link="https://docs.google.com/forms/d/e/1FAIpQLSeZa4JonFjq7s7oDPnDvMgRBAgRlPvMzPnNDFYcCo72-D0C6w/viewform">
-                  INSCRÍBETE AQUÍ
+              <Button variant="small" route="fotografia">
+                  Fotografía
               </Button>
             </div>
           </div>
