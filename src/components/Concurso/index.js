@@ -27,6 +27,9 @@ class Concurso extends React.Component {
               <p>{content.text}</p>
             </div>
           ))}
+          <Button link="https://forms.gle/xX547NHQ6QY8Zvmd7">
+            INSCRÍBETE AQUÍ
+          </Button>
         </section>
       </div>
     )
