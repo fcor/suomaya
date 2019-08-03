@@ -49,3 +49,33 @@
 .fotofilm-category img{
   margin: 20px 0;
 }
+
+@media screen and (max-width: 1000px) {
+  .fotofilm {
+    width: 80vw;
+    padding: 0;
+  }
+  .fotofilm-header{
+    width: 60vw;
+  }
+  .fotofilm-content{
+    width: 55vw;
+  }
+  .fotofilm-categories{
+    width: 50vw;
+    flex-direction: column !important;
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .fotofilm h1{
+    font-size: 30px;
+  }
+  .fotofilm h2{
+    font-size: 25px;
+  }
+  .fotofilm p{
+    font-size: 17px;
+  }
+}

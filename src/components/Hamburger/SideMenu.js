@@ -52,6 +52,13 @@ const Links = ({onClick}) => (
         >
         Simposio
       </NavLink>
+      <NavLink
+        to='/fotofilm'
+        activeClassName="selected"
+        onClick={onClick}
+        >
+        Fotofilm
+      </NavLink>
     </div>
   </div>
 )
