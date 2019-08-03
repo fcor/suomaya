@@ -53,3 +53,25 @@
   font-weight: bold;
   margin: 10px 0;
 }
+
+@media screen and (max-width: 1000px) {
+  .concurso {
+    width: 80vw;
+    padding: 30px;
+  }
+  .concurso-header{
+    width: 60vw;
+  }
+  .concurso-content{
+    width: 55vw;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .concurso h1{
+    font-size: 30px;
+  }
+  .concurso p{
+    font-size: 17px;
+  }
+}
