@@ -45,9 +45,9 @@ Durante el congreso se emitirán los cortos preseleccionados, el día de cierre 
     {
       title: 'Premios',
       text: `Suomaya premiará a los 3 primeros lugares con:
-Ganadores: Tarjeta Netfilx, bono cine, Trofeo y certificado de participación.
-Segundo puesto: Tarjeta Netfilx, bono cine, Trofeo y certificado de participación.
-Tercer puesto: Trofeo, Tarjeta Netfilx, bono cine  y certificado de participación.
+Primer puesto: Tarjeta Netfilx, bono cine y certificado de participación.
+Segundo puesto: Tarjeta Netfilx, bono cine y certificado de participación.
+Tercer puesto: Bono cine  y certificado de participación.
       `,
     }
   ]
@@ -107,9 +107,9 @@ Nota: las fotos preseleccionadas se determinan por conteo de likes.`,
     {
       title: 'Premios',
       text: `Suomaya premiará a los 3 primeros lugares con:
-Ganador: Cámara GoPro, trofeo, tarjeta regalo Netflix, bono de cine, certificado de participación.
-Segundo puesto: Trofeo,  tarjeta de regalo Netflix, bono de cine y certificado de participación.
-Tercer puesto: Trofeo tarjeta de regalo Netflix, bono de cine y certificado de participación.`,
+Primer puesto: Cámara deportiva 4k sumergible + WiFi + control y certificado de participación.
+Segundo puesto: Tarjeta Netflix, bono de cine y certificado de participación.
+Tercer puesto: Bono de cine y certificado de participación.`,
     }
   ]
 }
