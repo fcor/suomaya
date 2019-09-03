@@ -22,11 +22,11 @@ Título de la obra.`,
     },
     {
       title: 'Plazo',
-      text: 'Con el fin de que exista un tiempo razonable para seleccionar los cortos finalistas, el plazo para la entrega de trabajos termina el 20 de septiembre de 2019.',
+      text: 'Con el fin de que exista un tiempo razonable para seleccionar los cortos finalistas, el plazo para la entrega de trabajos termina el 25 de septiembre de 2019.',
     },
     {
       title: 'Metodología de preselección y determinación del ganador',
-      text: `A partir del día en que los concursantes suban su video a Facebook, estará disponible para la votación, el día 20 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes para elegir los preseleccionados y al día siguiente publicarlos en la página. 
+      text: `A partir del día en que los concursantes suban su video a Facebook, estará disponible para la votación, el día 25 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes para elegir los preseleccionados y al día siguiente publicarlos en la página. 
  
 Durante el congreso se emitirán los cortos preseleccionados, el día de cierre del evento 4 de octubre los jurados votaran y seleccionarán los 3 ganadores.`,
     },
@@ -86,11 +86,11 @@ Etiqueta a 3 amigos`,
     },
     {
       title: 'Plazo',
-      text: 'El plazo para la entrega de trabajos termina el 10 de septiembre de 2019 hora 5:00pm.',
+      text: 'El plazo para la entrega de trabajos termina el 25 de septiembre de 2019 hora 5:00pm.',
     },
     {
       title: 'Metodología de preselección y determinación del ganador',
-      text: `A partir del día en que los concursantes suban su foto a Instagram, estará disponible para la votación, el día 10 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes y verificación de los diferentes pasos solicitados para elegir los 10 preseleccionados y al día siguiente publicarlos en la página.
+      text: `A partir del día en que los concursantes suban su foto a Instagram, estará disponible para la votación, el día 25 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes y verificación de los diferentes pasos solicitados para elegir los 10 preseleccionados y al día siguiente publicarlos en la página.
 
 Los autores de las fotos seleccionadas se citarán para un taller certificado de realidad aumentada, la presentación de las fotografías seleccionada se hará tipo galería y de manera impresa durante el congreso, allí  los participantes al evento emitirán sus votos en un sistema diseñado para tal tarea y se dará el ganador en el cierre del evento.
 

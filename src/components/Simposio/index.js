@@ -30,9 +30,9 @@ class Simposio extends React.Component {
               proyectos  SENNOVA y cuenta con la participación de diferentes invitados
               como empresarios, universidades, IES, líderes SENNOVA e investigadores. 
               <br />
-              <br />Recepción de artículos: Hasta el 31 de Julio de 2019.
-              <br />Evaluación de artículos: 1 al 14 de Agosto de 2019.
-              <br />Comunicación de resultados: 16 de Agosto de 2019.
+              <br />Recepción de artículos: Hasta el 19 de Agosto de 2019.
+              <br />Evaluación de artículos: 20 al 30 de Agosto de 2019.
+              <br />Comunicación de resultados: 3 de septiembre de 2019.
               <br /> <br /> <strong>Agenda del evento: </strong>
               <br />Octubre 2: 
               <br />Mercadeo 9am - 12m
