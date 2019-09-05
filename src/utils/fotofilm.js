@@ -5,7 +5,7 @@ const cortometraje = {
   content: [
     {
       title: 'Requisitos para concursar',
-      text: `1. Inscribirse en la página www.suomaya.com.
+      text: `1. Inscribirse en la página www.suomaya.co.
 2. Agregar a Grupo de Investigación SUOMAYA en Facebook.
 3. Subir los trabajos a https://web.facebook.com/suomaya.cgmlti.7.`,
     },
@@ -62,7 +62,7 @@ const fotografia = {
   content: [
     {
       title: 'Requisitos para concursar',
-      text: `1. Inscribirse en la página www.suomaya.com.
+      text: `1. Inscribirse en la página www.suomaya.co.
 2. Seguir a Grupo de Investigación SUOMAYA en Instagram (allí encontrara las instrucciones específicas)
 3. Subir los fotografías al perfil de instagram @gisuomayacgmlti `,
     },
