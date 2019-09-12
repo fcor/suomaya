@@ -87,6 +87,7 @@
   font-weight: bold;
   font-size: 60px;
   margin: 30px 0 30px 0;
+  text-align: center;
 }
 
 .simposio-agenda-menu ul {
@@ -233,6 +234,24 @@
   }
 }
 
+@media screen and (max-width: 950px){
+  .day-card{
+    width: 70vw;
+  }
+
+  .day-cards{
+    padding: 0;
+  }
+
+  .simposio-agenda-menu ul li {
+    margin-right: 30px;
+  }
+  
+  .simposio-agenda-menu ul li:last-child {
+    margin-right: 0;
+  }
+}
+
 @media screen and (max-width: 900px){
   .simposio-top-info h1{
     font-size: 30px;
@@ -277,6 +296,14 @@
     width: 340px;
   }
 
+  .simposio-agenda-menu h1 {
+    font-size: 40px;
+  }
+
+  .day-header h2 {
+    font-size: 24px;
+  }
+
 }
 
 @media screen and (max-width: 730px){
@@ -316,6 +343,18 @@
   .simposio-gallery img{
     width: 70vw;
     /* margin: 20px 0; */
+  }
+
+  .day-card{
+    flex-direction: column !important;
+  }
+
+  .day-card img {
+    margin: 0 0 25px 0;
+  }
+
+  .day-card-details h3 {
+    text-align: center;
   }
   
 }
