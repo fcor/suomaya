@@ -1,5 +1,6 @@
 import React from 'react'
 import Button from '../Button'
+import Agenda from './Agenda'
 import './styles.css'
 import flyer from '../../assets/img/simposio.jpg'
 import flyer2 from '../../assets/img/simposio2.jpg'
@@ -62,6 +63,10 @@ class Simposio extends React.Component {
             alt="flyer"
             src={flyer2}
           />
+        </section>
+        <hr className="line container" />
+        <section className="simposio-agenda column">
+          <Agenda />
         </section>
         {/* <section className="simposio-pics column">
           <h1>¡Asi fue el II Simposio de Ciencia, innovación y tecnología!</h1>
