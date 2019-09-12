@@ -1,6 +1,6 @@
 const cortometraje = {
   title: "Concurso mejor cortometraje",
-  description: `En esta categoría se premiaran los tres mejores cortometrajes entregados por los aprendices SENA que el dia 4 de octubre en el marco del “I congreso internacional de industria 4.0 y economía naranja y III Simposio de Ciencia, Innovación y Tecnología”, el género y la temática es libre el único requisito es que el dispositivo de grabación sea un celular.
+  description: `En esta categoría se premiaran los tres mejores cortometrajes entregados por los aprendices SENA el dia 4 de octubre en el marco del “I congreso internacional de industria 4.0 y economía naranja y III Simposio de Ciencia, Innovación y Tecnología”, el género y la temática es libre el único requisito es que el dispositivo de grabación sea un celular.
   Se calificarán los elementos creativos utilizados en el desarrollo del cortometraje.`,
   content: [
     {
