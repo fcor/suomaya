@@ -6,16 +6,16 @@ const cortometraje = {
     {
       title: 'Requisitos para concursar',
       text: `1. Inscribirse en la página www.suomaya.co.
-2. Agregar a Grupo de Investigación SUOMAYA en Facebook.
-3. Subir los trabajos a https://web.facebook.com/suomaya.cgmlti.7.`,
+2. Agregar a SUOMAYA CGMLTI en Facebook y seguir la cuenta de Instagram @gisuomayacgmlti
+3. Enviar los trabajos al correo gisuomaya@gmail.com`,
     },
     {
       title: 'Formato de presentación',
-      text: 'Los trabajos de vídeo deben realizarse con un dispositivo celular, no podrán durar más de 2 minutos y deben ser cargados directamente a la página de Facebook por los concursantes.',
+      text: 'Los trabajos de video deben realizarse con un dispositivo celular, no podrá durar más de 2 minutos y deben ser enviados al correo gisuomaya@gmail.com',
     },
     {
       title: 'Identificación',
-      text: `Los cortometrajes deberán ir acompañados de los siguientes datos en la página de Facebook:
+      text: `Los cortometrajes deberán ir acompañados de los siguientes datos:
 Nombre y apellidos de los autores
 Programa al que están inscritos
 Título de la obra.`,
@@ -25,15 +25,13 @@ Título de la obra.`,
       text: 'Con el fin de que exista un tiempo razonable para seleccionar los cortos finalistas, el plazo para la entrega de trabajos termina el 25 de septiembre de 2019.',
     },
     {
-      title: 'Metodología de preselección y determinación del ganador',
-      text: `A partir del día en que los concursantes suban su video a Facebook, estará disponible para la votación, el día 25 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes para elegir los preseleccionados y al día siguiente publicarlos en la página. 
- 
-Durante el congreso se emitirán los cortos preseleccionados, el día de cierre del evento 4 de octubre los jurados votaran y seleccionarán los 3 ganadores.`,
+      title: 'Metodología de preselección y selección del ganador',
+      text: `El cortometraje debe ser enviado al correo gisuomaya@gmail.com. A partir del día en que el cortometraje sea subido, estará disponible para la votación. El día 25 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes para elegir los preseleccionados y al día siguiente publicarlos en la página. Durante el congreso se emitirán los cortos preseleccionados, el día de cierre del evento 4 de octubre los jurados votarán y seleccionarán los 3 ganadores.`,
     },
-    {
-      title: 'Determinación del ganador',
-      text: `Los preseleccionados seran los cortometrajes que más acomulen likes desde el momento de la publicación en la pagina de Facebook del grupo Suomaya hasta el dia 20 de septiembre 5:00 pm, la elección de ganadores por medio de jurado es el dia 4 de octubre, los resultados y la premiación se realizará en el cierre del congreso.`
-    },
+    // {
+    //   title: 'Determinación del ganador',
+    //   text: `Los preseleccionados serán los cortometrajes que más acumulen likes desde el momento de la publicación en la página de Facebook del grupo Suomaya hasta el día 20 de septiembre 5:00 pm, la elección de ganadores por medio de jurado es el día 4 de octubre, los resultados y la premiación se realizará en el cierre del congreso.`
+    // },
     {
       title: 'Jurado',
       text: 'Estará integrado por instructores y aprendices de las diferentes áreas de formación.'
@@ -63,8 +61,8 @@ const fotografia = {
     {
       title: 'Requisitos para concursar',
       text: `1. Inscribirse en la página www.suomaya.co.
-2. Seguir a Grupo de Investigación SUOMAYA en Instagram (allí encontrara las instrucciones específicas)
-3. Subir los fotografías al perfil de instagram @gisuomayacgmlti `,
+2. Agregar a SUOMAYA CGMLTI en Facebook y seguir la cuenta de Instagram @gisuomayacgmlti
+3. Enviar los trabajos al correo gisuomaya@gmail.com`,
     },
     {
       title: 'Formato de presentación',
@@ -76,13 +74,12 @@ Temática según línea de profundización (Mercadeo, Logística, Teleinformáti
     },
     {
       title: 'Identificación',
-      text: `Las fotografías deberán ir acompañadas de los siguientes datos en la página de instagram:
+      text: `Las fotografías deberán ir acompañadas de los siguientes datos:
 Nombre y apellido del autor
 Programa al que están inscrito
 Título de la imagen.
 Frase que resuma la imagen
-Hashtags: #suomayafotofilm2019 #sennovacgmlti
-Etiqueta a 3 amigos`,
+`,
     },
     {
       title: 'Plazo',
@@ -90,9 +87,9 @@ Etiqueta a 3 amigos`,
     },
     {
       title: 'Metodología de preselección y determinación del ganador',
-      text: `A partir del día en que los concursantes suban su foto a Instagram, estará disponible para la votación, el día 25 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes y verificación de los diferentes pasos solicitados para elegir los 10 preseleccionados y al día siguiente publicarlos en la página.
-
-Los autores de las fotos seleccionadas se citarán para un taller certificado de realidad aumentada, la presentación de las fotografías seleccionada se hará tipo galería y de manera impresa durante el congreso, allí  los participantes al evento emitirán sus votos en un sistema diseñado para tal tarea y se dará el ganador en el cierre del evento.
+      text: `La foto debe ser enviada al correo gisuomaya@gmail.com, y a partir del momento en que la foto sea subida al Instagram el participante tendrá hasta el 25 de septiembre a las 5:00 pm para conseguir el mayor número de likes. Se realizará el conteo de likes y verificación de los diferentes pasos solicitados para elegir los 10 preseleccionados y al día siguiente publicarlos en la página. 
+      
+Los autores de las fotos seleccionadas se citarán para un taller certificado de realidad aumentada. La presentación de las fotografías seleccionadas se hará tipo galería y de manera impresa durante el congreso, allí los participantes al evento emitirán sus votos en un sistema diseñado para tal tarea y se dará el ganador en el cierre del evento. 
 
 Nota: las fotos preseleccionadas se determinan por conteo de likes.`,
     },
