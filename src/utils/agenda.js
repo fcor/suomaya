@@ -8,6 +8,15 @@ import JulianaColussi from '../assets/img/JulianaColussi.png'
 import MaribelGarcia from '../assets/img/MaribelGarcia.png'
 import HernanCruz from '../assets/img/HernanCruz.png'
 import DoraValdez from '../assets/img/DoraValdez.png'
+import AlejandraCalderon from '../assets/img/AlejandraCalderon.png'
+import Arledis from '../assets/img/Arledis.png'
+import Francisco from '../assets/img/Francisco.png'
+import GiovannySerrano from '../assets/img/GiovannySerrano.png'
+import Miguel from '../assets/img/Miguel.png'
+import servientrega from '../assets/img/servientrega.png'
+import Vilma from '../assets/img/Vilma.png'
+import Camilo from '../assets/img/Camilo.png'
+import Gustavo from '../assets/img/Gustavo.png'
 
 export const miercoles = {
     fecha: 'Miércoles 2',
@@ -29,15 +38,15 @@ export const miercoles = {
             avatar: avatar,
         },
         {
-            nombre: 'Nombre de ponencia - Google',
+            nombre: 'Nuevas tendencias en mercadeo',
             autor: 'Gustavo Alvarado',
             pais: '🇨🇴',
             hora: '10:10 - 10:50',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar, 
+            avatar: Gustavo, 
         },
         {
-            nombre: 'Nombre ponencia - DirecTV',
+            nombre: 'Marketing en DirecTV Colombia',
             autor: 'Ernesto Carreño',
             pais: '🇨🇴',
             hora: '11:00 - 11:40',
@@ -54,18 +63,18 @@ export const miercoles = {
         },
         {
             nombre: 'Colsein - Industria 4.0',
-            autor: 'Giovanny Serrao',
+            autor: 'Giovanny Serrano',
             pais: '🇨🇴',
             hora: '3:00 - 3:50',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: GiovannySerrano,
         },{
             nombre: 'Tecnología aplicada a procesos logísticos - Servientrega ',
-            autor: 'Jorge Castañeda',
+            autor: 'Yuri Carolina Morales',
             pais: '🇨🇴',
             hora: '4:00 - 4:50',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: servientrega,
         },{
             nombre: 'Logística y Big Data',
             autor: 'James Rincon',
@@ -96,14 +105,14 @@ export const jueves = {
             lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
             avatar: SandraRubio,
         },
-        {
-            nombre: 'MentalOut App',
-            autor: 'María José Castro',
-            pais: '🇨🇴',
-            hora: '9:20 - 9:50',
-            lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar, 
-        },
+        // {
+        //     nombre: 'MentalOut App',
+        //     autor: 'María José Castro',
+        //     pais: '🇨🇴',
+        //     hora: '9:20 - 9:50',
+        //     lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
+        //     avatar: avatar, 
+        // },
         {
             nombre: 'Economía naranja una oportunidad única - Procolombia',
             autor: 'Daniela Ramirez',
@@ -118,7 +127,7 @@ export const jueves = {
             pais: '🇨🇴',
             hora: '10:40 - 11:10',
             lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: Francisco,
         },
         {
             nombre: 'Creación de un MakerLab, para fomentar la generación de productos en Industrias Creativas y Culturales (ICC), para los aprendices del programa Multimedia SENA-CEET',
@@ -158,7 +167,7 @@ export const jueves = {
             pais: '🇨🇴',
             hora: '2:50 - 3:30',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: Camilo,
         },
         {
             nombre: 'Diseño de servicios integrales de Outsourcing en gestión documental basado en competencias',
@@ -166,7 +175,7 @@ export const jueves = {
             pais: '🇨🇴',
             hora: '3:20 - 3:50',
             lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: Arledis,
         },
         {
             nombre: 'Inteligencia Artificial y Videojuegos',
@@ -244,7 +253,7 @@ export const viernes = {
             pais: '🇨🇴',
             hora: '2:50 - 3:30',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: Miguel,
         },
         
         {
@@ -253,7 +262,7 @@ export const viernes = {
             pais: '🇨🇴',
             hora: '3:40 - 4:20',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: AlejandraCalderon,
         },
         {
             nombre: 'Libro didáctico motor diesel con aplicativo de realidad aumentada',
@@ -261,7 +270,7 @@ export const viernes = {
             pais: '🇨🇴',
             hora: '4:30 - 5:10',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: Vilma,
         },
     ]
 }

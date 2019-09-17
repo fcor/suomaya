@@ -2,17 +2,17 @@ import React from 'react'
 import Button from '../Button'
 import Agenda from './Agenda'
 import './styles.css'
-import flyer from '../../assets/img/simposio.jpg'
+// import flyer from '../../assets/img/simposio.jpg'
 import flyer2 from '../../assets/img/simposio2.jpg'
-import logoSimposio from '../../assets/img/simposio2.png'
+// import logoSimposio from '../../assets/img/simposio2.png'
 import sena from '../../assets/img/sena.png'
 import sennova from '../../assets/img/sennova.png'
-import foto1 from '../../assets/img/foto1.jpg'
-import foto2 from '../../assets/img/foto2.jpg'
-import foto3 from '../../assets/img/foto3.jpg'
-import foto4 from '../../assets/img/foto4.jpg'
-import foto5 from '../../assets/img/foto5.jpg'
-import foto6 from '../../assets/img/foto6.jpg'
+// import foto1 from '../../assets/img/foto1.jpg'
+// import foto2 from '../../assets/img/foto2.jpg'
+// import foto3 from '../../assets/img/foto3.jpg'
+// import foto4 from '../../assets/img/foto4.jpg'
+// import foto5 from '../../assets/img/foto5.jpg'
+// import foto6 from '../../assets/img/foto6.jpg'
 
 class Simposio extends React.Component {
   componentDidMount() {
@@ -40,7 +40,7 @@ class Simposio extends React.Component {
               <br />Logística 1pm - 6pm
               <br />
               <br />Octubre 3: 
-              <br />Emprendimiento 8am - 12m (Terrazas)
+              <br />Teleinformática 8am - 12m (Audiovisuales)
               <br />Industrias creativas 1pm - 6pm
               <br />
               <br />Octubre 4:
