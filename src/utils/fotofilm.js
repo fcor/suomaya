@@ -26,7 +26,9 @@ Título de la obra.`,
     },
     {
       title: 'Metodología de preselección y selección del ganador',
-      text: `El cortometraje debe ser enviado al correo gisuomaya@gmail.com. A partir del día en que el cortometraje sea subido, estará disponible para la votación. El día 25 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes para elegir los preseleccionados y al día siguiente publicarlos en la página. Durante el congreso se emitirán los cortos preseleccionados, el día de cierre del evento 4 de octubre los jurados votarán y seleccionarán los 3 ganadores.`,
+      text: `El cortometraje debe ser enviado al correo gisuomaya@gmail.com. A partir del día en que el cortometraje sea subido, estará disponible para la votación. El día 25 de septiembre 5:00 pm se cerrarán las votaciones y se realizará el conteo de likes para elegir los preseleccionados y al día siguiente publicarlos en la página. Durante el congreso se emitirán los cortos preseleccionados, el día de cierre del evento 4 de octubre los jurados votarán y seleccionarán los 3 ganadores.
+
+Nota: Los participantes deben tener en cuenta que al momento de preseleccionar los videos, los perfiles que han votado por medio de likes deben estar activos en los seguidores de la página.`,
     },
     // {
     //   title: 'Determinación del ganador',
@@ -43,7 +45,7 @@ Título de la obra.`,
     {
       title: 'Premios',
       text: `Suomaya premiará a los 3 primeros lugares con:
-Primer puesto: Drone para cada miembro del equipo y certificado de participación.
+Primer puesto: Mini-Drone para cada miembro del equipo y certificado de participación.
 Segundo puesto: Tarjeta Netflix, bono cine y certificado de participación.
 Tercer puesto: Bono cine  y certificado de participación.
       `,
@@ -53,10 +55,7 @@ Tercer puesto: Bono cine  y certificado de participación.
 
 const fotografia = {
   title: "Concurso mejor fotografía",
-  description: `Con el slogan "no buscamos expertos, queremos apasionados" le damos paso al primer concurso de fotografía en el “SUOMAYA FOTOFILM FESTIVAL 2019”, que se premiará en el marco del “I congreso internacional de industria 4.0 y economía naranja y III Simposio de Ciencia, Innovación y Tecnología”  en el mes de octubre y que tiene como finalidad premiar los trabajos de los aprendices SENA, adicional a ello nuestro equipo de trabajo como reconocimiento a los mejores fotógrafos, realizará un taller en realidad aumentada para darle un toque adicional de tecnología a las imágenes presentadas.
- 
-  La temática se enfoca a realizar una fotografía que contenga elementos de alguna de las áreas de conocimiento del centro (Mercadeo, Logística, Teleinformática e Industrias creativas).
-  `,
+  description: `Con el slogan "no buscamos expertos, queremos apasionados" le damos paso al primer concurso de fotografía en el “SUOMAYA FOTOFILM FESTIVAL 2019”, que se premiará en el marco del “I congreso internacional de industria 4.0 y economía naranja y III Simposio de Ciencia, Innovación y Tecnología”  en el mes de octubre y que tiene como finalidad premiar los trabajos de los aprendices SENA, adicional a ello nuestro equipo de trabajo como reconocimiento a los mejores fotógrafos, realizará un taller en realidad aumentada para darle un toque adicional de tecnología a las imágenes presentadas.`,
   content: [
     {
       title: 'Requisitos para concursar',
@@ -68,9 +67,7 @@ const fotografia = {
       title: 'Formato de presentación',
       text: `Los trabajos de fotografía pueden realizarse con cualquier dispositivo. 
  
-Fotos Horizontales
-       
-Temática según línea de profundización (Mercadeo, Logística, Teleinformática e Industrias creativas).`,
+Fotos Horizontales`,
     },
     {
       title: 'Identificación',
@@ -91,7 +88,7 @@ Frase que resuma la imagen
       
 Los autores de las fotos seleccionadas se citarán para un taller certificado de realidad aumentada. La presentación de las fotografías seleccionadas se hará tipo galería y de manera impresa durante el congreso, allí los participantes al evento emitirán sus votos en un sistema diseñado para tal tarea y se dará el ganador en el cierre del evento. 
 
-Nota: las fotos preseleccionadas se determinan por conteo de likes.`,
+Nota: Los participantes deben tener en cuenta que al momento de preseleccionar las imágenes, los perfiles que han votado por medio de likes deben estar activos en los seguidores de la página. Adicional a esto, las imágenes deben ser de autoría propia y pasarán por un filtro se verificación.`,
     },
     {
       title: 'Jurado',
