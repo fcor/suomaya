@@ -17,6 +17,12 @@ import servientrega from '../assets/img/servientrega.png'
 import Vilma from '../assets/img/Vilma.png'
 import Camilo from '../assets/img/Camilo.png'
 import Gustavo from '../assets/img/Gustavo.png'
+import AndreaCarolina from '../assets/img/AndreaCarolina.png'
+import Johanny from '../assets/img/Johanny.png'
+import DanielaRamirez from '../assets/img/DanielaRamirez.png'
+import DanielBuitrago from '../assets/img/DanielBuitrago.png'
+import JamesRincon from '../assets/img/JamesRincon.png'
+import Wilson from '../assets/img/Wilson.png'
 
 export const miercoles = {
     fecha: 'Miércoles 2',
@@ -30,8 +36,8 @@ export const miercoles = {
             avatar:  FatimaMartinez,
         },
         {
-            nombre: 'Creatividad y economía naranja - Ministerio de Cultura',
-            autor: 'Maria Cristina Diaz',
+            nombre: 'Experiencias en Mercadeo - BBDO',
+            autor: 'Jorge Becerra',
             pais: '🇨🇴',
             hora: '9:20 - 10:00',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
@@ -81,7 +87,7 @@ export const miercoles = {
             pais: '🇨🇴',
             hora: '5:00 - 5:50',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: JamesRincon,
         },
     ]
 }
@@ -105,6 +111,14 @@ export const jueves = {
             lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
             avatar: SandraRubio,
         },
+        {
+            nombre: 'Libro didáctico motor diesel con aplicativo de realidad aumentada',
+            autor: 'Vilma Ruth Casagua',
+            pais: '🇨🇴',
+            hora: '9:20 - 9:50',
+            lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
+            avatar: Vilma,
+        },
         // {
         //     nombre: 'MentalOut App',
         //     autor: 'María José Castro',
@@ -119,7 +133,7 @@ export const jueves = {
             pais: '🇨🇴',
             hora: '10:00 - 10:30',
             lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: DanielaRamirez,
         },
         {
             nombre: 'Análisis empírico del impacto del blockchain, los datos genómicos y las oportunidades laborales del inmediato futuro',
@@ -131,11 +145,11 @@ export const jueves = {
         },
         {
             nombre: 'Creación de un MakerLab, para fomentar la generación de productos en Industrias Creativas y Culturales (ICC), para los aprendices del programa Multimedia SENA-CEET',
-            autor: 'Carlos Andres Rivera',
+            autor: 'Andrea Carolina Camacho',
             pais: '🇨🇴',
             hora: '11:20 - 12:00',
             lugar: 'Salon de audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: AndreaCarolina,
         },
         {
             nombre: 'Diseño de prototipo de divisiones modulares a base de productos ecologicos',
@@ -159,7 +173,7 @@ export const jueves = {
             pais: '🇨🇴',
             hora: '2:40 - 3:10',
             lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: Johanny,
         },
         {
             nombre: 'Cruzando la linea de la realidad con tecnologías inmersivas',
@@ -186,12 +200,12 @@ export const jueves = {
             avatar: avatar,
         },
         {
-            nombre: 'Análisis de Disney Animation como empresa creativa',
+            nombre: 'Disney Animation como empresa creativa',
             autor: 'Daniel Buitrago',
             pais: '🇨🇴',
             hora: '4:30 - 5:10',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: DanielBuitrago,
         },
     ]
 }
@@ -213,11 +227,11 @@ export const viernes = {
             pais: '🇨🇴',
             hora: '8:50 - 9:30',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: Wilson,
         },
         {
-            nombre: 'Nuevas tendencias en Marketing - BBDO',
-            autor: 'Jorge Becerra',
+            nombre: 'Bases de la política de Economía Naranja - Ministerio de Cultura',
+            autor: 'Juan Felipe Parra',
             pais: '🇨🇴',
             hora: '9:40 - 10:20',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
@@ -255,7 +269,6 @@ export const viernes = {
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
             avatar: Miguel,
         },
-        
         {
             nombre: 'El uso de las TIC en la enseñanza de la joyería',
             autor: 'Julieth Alejandra Calderón',
@@ -263,14 +276,6 @@ export const viernes = {
             hora: '3:40 - 4:20',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
             avatar: AlejandraCalderon,
-        },
-        {
-            nombre: 'Libro didáctico motor diesel con aplicativo de realidad aumentada',
-            autor: 'Vilma Ruth Casagua',
-            pais: '🇨🇴',
-            hora: '4:30 - 5:10',
-            lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: Vilma,
         },
     ]
 }
