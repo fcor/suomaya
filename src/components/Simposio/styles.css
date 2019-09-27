@@ -21,7 +21,8 @@
   margin: 0 0 15px 0;
 }
 
-.simposio-top-info p{
+.simposio-top-info p,
+.simposio-top-support p{
   color: var(--gris);
   font-family: 'Calibri';
   font-size: 19px;
@@ -257,7 +258,8 @@
     font-size: 30px;
   }
 
-  .simposio-top-info p{
+  .simposio-top-info p,
+  .simposio-top-support p{
     font-size: 17px;
   }
 
@@ -278,7 +280,8 @@
     font-size: 27px;
   }
 
-  .simposio-top-info p{
+  .simposio-top-info p,
+  .simposio-top-support p{
     font-size: 16px;
   }
 
@@ -311,7 +314,8 @@
     font-size: 24px;
   }
 
-  .simposio-top-info p{
+  .simposio-top-info p,
+  .simposio-top-support p{
     font-size: 15px;
   }
 
@@ -336,7 +340,8 @@
     width: 80vw;
   }
 
-  .simposio-top-info p{
+  .simposio-top-info p,
+  .simposio-top-support p{
     text-align: center
   }
 
