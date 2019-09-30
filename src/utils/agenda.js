@@ -23,6 +23,8 @@ import DanielaRamirez from '../assets/img/DanielaRamirez.png'
 import DanielBuitrago from '../assets/img/DanielBuitrago.png'
 import JamesRincon from '../assets/img/JamesRincon.png'
 import Wilson from '../assets/img/Wilson.png'
+import Parra from '../assets/img/Parra.png'
+import sancho from '../assets/img/sancho.jpg'
 
 export const miercoles = {
     fecha: 'Miércoles 2',
@@ -36,15 +38,15 @@ export const miercoles = {
             avatar:  FatimaMartinez,
         },
         {
-            nombre: 'Experiencias en Mercadeo - BBDO',
+            nombre: 'Marketing en tiempos de Trump - DDB Colombia',
             autor: 'Jorge Becerra',
             pais: '🇨🇴',
             hora: '9:20 - 10:00',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: sancho,
         },
         {
-            nombre: 'Nuevas tendencias en mercadeo',
+            nombre: 'Nuevas tendencias en mercadeo - Google',
             autor: 'Gustavo Alvarado',
             pais: '🇨🇴',
             hora: '10:10 - 10:50',
@@ -160,12 +162,12 @@ export const jueves = {
             avatar: avatar,
         },
         {
-            nombre: 'Creative Coding',
-            autor: 'Fabio Cortés',
+            nombre: 'Cruzando la linea de la realidad con tecnologías inmersivas',
+            autor: 'Camilo Andrés Montañez',
             pais: '🇨🇴',
             hora: '2:00 - 2:40',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: FabioCortes,
+            avatar: Camilo,
         },
         {
             nombre: 'Biofertilizante celular, mediante el crecimiento de la microalga Chlorella Vulgaris',
@@ -176,12 +178,12 @@ export const jueves = {
             avatar: Johanny,
         },
         {
-            nombre: 'Cruzando la linea de la realidad con tecnologías inmersivas',
-            autor: 'Camilo Andrés Montañez',
+            nombre: 'Creative Coding',
+            autor: 'Fabio Cortés',
             pais: '🇨🇴',
             hora: '2:50 - 3:30',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: Camilo,
+            avatar: FabioCortes,
         },
         {
             nombre: 'Diseño de servicios integrales de Outsourcing en gestión documental basado en competencias',
@@ -235,7 +237,7 @@ export const viernes = {
             pais: '🇨🇴',
             hora: '9:40 - 10:20',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar, 
+            avatar: Parra, 
         },
         {
             nombre: 'Economía Naranja en Colombia',
