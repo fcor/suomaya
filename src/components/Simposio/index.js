@@ -53,10 +53,10 @@ class Simposio extends React.Component {
                 <img src={sennova} alt="sennova" width="210" />
                 {/* <img src={logoSimposio} alt="simposio" width="210" /> */}
               </div>
-              <p>Inscripciones cerradas</p>
-              {/* <Button link="https://docs.google.com/forms/d/e/1FAIpQLSeZa4JonFjq7s7oDPnDvMgRBAgRlPvMzPnNDFYcCo72-D0C6w/viewform">
+              {/* <p>Inscripciones cerradas</p> */}
+              <Button link="https://docs.google.com/forms/d/e/1FAIpQLSeZa4JonFjq7s7oDPnDvMgRBAgRlPvMzPnNDFYcCo72-D0C6w/viewform">
                   INSCRÍBETE AQUÍ
-              </Button> */}
+              </Button>
             </div>
           </div>
           <img 

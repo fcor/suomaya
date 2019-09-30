@@ -154,7 +154,7 @@ export const jueves = {
             avatar: AndreaCarolina,
         },
         {
-            nombre: 'Diseño de prototipo de divisiones modulares a base de productos ecologicos',
+            nombre: 'Diseño de prototipo de divisiones modulares a base de productos ecológicos',
             autor: 'Cristian Sanchez y  Estephany Carolina Montiel',
             pais: '🇨🇴',
             hora: '2:00 - 2:30',
