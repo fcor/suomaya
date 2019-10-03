@@ -26,6 +26,7 @@ import Wilson from '../assets/img/Wilson.png'
 import Parra from '../assets/img/Parra.png'
 import sancho from '../assets/img/sancho.jpg'
 import Hollman from '../assets/img/Hollman.png'
+import Ivonne from '../assets/img/Ivonne.png'
 
 export const miercoles = {
     fecha: 'Miércoles 2',
@@ -247,6 +248,14 @@ export const viernes = {
             hora: '10:30 - 11:10',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
             avatar: MaribelGarcia,
+        },
+        {
+            nombre: 'Innovar en videojuegos es la unión de tecnología + software + personas + determinación',
+            autor: 'Ivonne Zulema Prado',
+            pais: '🇨🇴',
+            hora: '11:00 - 11:40',
+            lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
+            avatar: Ivonne,
         },
         {
             nombre: 'Proyectos digitales y aplicaciones móviles',
