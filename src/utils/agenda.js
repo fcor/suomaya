@@ -9,7 +9,7 @@ import MaribelGarcia from '../assets/img/MaribelGarcia.png'
 import HernanCruz from '../assets/img/HernanCruz.png'
 import DoraValdez from '../assets/img/DoraValdez.png'
 import AlejandraCalderon from '../assets/img/AlejandraCalderon.png'
-import Arledis from '../assets/img/Arledis.png'
+import Argentino from '../assets/img/Argentino.png'
 import Francisco from '../assets/img/Francisco.png'
 import GiovannySerrano from '../assets/img/GiovannySerrano.png'
 import Miguel from '../assets/img/Miguel.png'
@@ -25,6 +25,7 @@ import JamesRincon from '../assets/img/JamesRincon.png'
 import Wilson from '../assets/img/Wilson.png'
 import Parra from '../assets/img/Parra.png'
 import sancho from '../assets/img/sancho.jpg'
+import Hollman from '../assets/img/Hollman.png'
 
 export const miercoles = {
     fecha: 'Miércoles 2',
@@ -114,21 +115,13 @@ export const jueves = {
             avatar: SandraRubio,
         },
         {
-            nombre: 'Libro didáctico motor diesel con aplicativo de realidad aumentada',
-            autor: 'Vilma Ruth Casagua',
-            pais: '🇨🇴',
+            nombre: 'Cultura y Agile',
+            autor: 'Daniel Alejandro Isoba',
+            pais: '🇦🇷',
             hora: '9:20 - 9:50',
             lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: Vilma,
+            avatar: Argentino, 
         },
-        // {
-        //     nombre: 'MentalOut App',
-        //     autor: 'María José Castro',
-        //     pais: '🇨🇴',
-        //     hora: '9:20 - 9:50',
-        //     lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-        //     avatar: avatar, 
-        // },
         {
             nombre: 'Economía naranja una oportunidad única - Procolombia',
             autor: 'Daniela Ramirez',
@@ -186,20 +179,28 @@ export const jueves = {
             avatar: FabioCortes,
         },
         {
-            nombre: 'Diseño de servicios integrales de Outsourcing en gestión documental basado en competencias',
-            autor: 'Arledis María Hurtado',
+            nombre: 'Libro didáctico motor diesel con aplicativo de realidad aumentada',
+            autor: 'Vilma Ruth Casagua',
             pais: '🇨🇴',
             hora: '3:20 - 3:50',
             lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: Arledis,
+            avatar: Vilma,
         },
+        // {
+        //     nombre: 'Diseño de servicios integrales de Outsourcing en gestión documental basado en competencias',
+        //     autor: 'Arledis María Hurtado',
+        //     pais: '🇨🇴',
+        //     hora: '3:20 - 3:50',
+        //     lugar: 'Salon de Audiovisuales - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
+        //     avatar: Arledis,
+        // },
         {
             nombre: 'Inteligencia Artificial y Videojuegos',
             autor: 'Hollman Alvarez',
             pais: '🇨🇴',
             hora: '3:40 - 4:20',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: avatar,
+            avatar: Hollman,
         },
         {
             nombre: 'Disney Animation como empresa creativa',
@@ -256,7 +257,7 @@ export const viernes = {
             avatar: HernanCruz,
         },
         {
-            nombre: 'Técnicas de procesamiento de datos',
+            nombre: 'El impacto de la analítica de datos en la economía de hoy',
             autor: 'Dora Valdez',
             pais: '🇲🇽',
             hora: '2:00 - 2:40',
