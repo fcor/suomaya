@@ -27,6 +27,7 @@ import Parra from '../assets/img/Parra.png'
 import sancho from '../assets/img/sancho.jpg'
 import Hollman from '../assets/img/Hollman.png'
 import Ivonne from '../assets/img/Ivonne.png'
+import Henry from '../assets/img/Henry.jpg'
 
 export const miercoles = {
     fecha: 'Miércoles 2',
@@ -283,11 +284,11 @@ export const viernes = {
         },
         {
             nombre: 'El uso de las TIC en la enseñanza de la joyería',
-            autor: 'Julieth Alejandra Calderón',
+            autor: 'Henry Alfonso Garzón Sánchez',
             pais: '🇨🇴',
             hora: '3:40 - 4:20',
             lugar: 'Auditorio - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
-            avatar: AlejandraCalderon,
+            avatar: Henry,
         },
     ]
 }
